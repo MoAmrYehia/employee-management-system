@@ -5,3 +5,7 @@ In this project followed [Object Oriented Programming with Python 3](https://www
 The project has passed through three stages:
 
 ![1st stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/1.png)
+
+![2nd stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/2.png)
+
+![3rd stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/3.png)
