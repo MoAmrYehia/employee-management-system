@@ -4,6 +4,11 @@ In this project followed [Object Oriented Programming with Python 3](https://www
 ## Architecture
 The project has passed through three stages:
 
+Initially, I started with building a payroll system for three different types of employees
+* Full time
+* Part time 
+* Commission
+
 ![1st stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/1.png)
 
 ![2nd stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/2.png)
