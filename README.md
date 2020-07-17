@@ -11,6 +11,10 @@ Initially, I started with building a payroll system for three different types of
 
 ![1st stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/1.png)
 
+In the 2nd stage we added a new requirement to evaluate employee's performance. By adding a new class:
+
+
+
 ![2nd stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/2.png)
 
 ![3rd stages](https://raw.githubusercontent.com/MoAmrYehia/employee-management-system/master/res/3.png)
